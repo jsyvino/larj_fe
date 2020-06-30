@@ -1,0 +1,26 @@
+.cause-detail-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    align-items: center;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.field-item {
+    width: inherit;
+    margin-bottom: 15px;
+}
+
+.button-primary{
+    padding: 2rem 3rem;
+    height: unset;
+    margin: 3rem;
+}
+
+.primary-text {
+    font-size: 3rem;
+    margin: 0;
+}
