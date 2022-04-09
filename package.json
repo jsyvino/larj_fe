@@ -11,7 +11,7 @@
     "eslint": "^6.6.0",
     "lodash": "^4.17.15",
     "milligram": "^1.4.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.5.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
